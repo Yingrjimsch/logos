@@ -81,6 +81,65 @@ function preload() {
 	animation.push(loadImage('assets/js/birdyjs/9/frame-2.png'));
 	
 	allAnimations.push(animation);
+	animation = [];
+
+	animation.push(loadImage('assets/js/birdyjs/10/frame-1.png'));
+	animation.push(loadImage('assets/js/birdyjs/10/frame-2.png'));
+	animation.push(loadImage('assets/js/birdyjs/10/frame-3.png'));
+	animation.push(loadImage('assets/js/birdyjs/10/frame-4.png'));
+	animation.push(loadImage('assets/js/birdyjs/10/frame-5.png'));
+	animation.push(loadImage('assets/js/birdyjs/10/frame-6.png'));
+	animation.push(loadImage('assets/js/birdyjs/10/frame-7.png'));
+	animation.push(loadImage('assets/js/birdyjs/10/frame-8.png'));
+	animation.push(loadImage('assets/js/birdyjs/10/frame-9.png'));
+	animation.push(loadImage('assets/js/birdyjs/10/frame-10.png'));
+	animation.push(loadImage('assets/js/birdyjs/10/frame-11.png'));
+	animation.push(loadImage('assets/js/birdyjs/10/frame-12.png'));
+	animation.push(loadImage('assets/js/birdyjs/10/frame-13.png'));
+	
+	allAnimations.push(animation);
+	animation = [];
+
+	animation.push(loadImage('assets/js/birdyjs/11/frame-1.png'));
+	animation.push(loadImage('assets/js/birdyjs/11/frame-2.png'));
+	animation.push(loadImage('assets/js/birdyjs/11/frame-3.png'));
+	animation.push(loadImage('assets/js/birdyjs/11/frame-4.png'));
+	animation.push(loadImage('assets/js/birdyjs/11/frame-5.png'));
+	animation.push(loadImage('assets/js/birdyjs/11/frame-6.png'));
+	animation.push(loadImage('assets/js/birdyjs/11/frame-7.png'));
+	animation.push(loadImage('assets/js/birdyjs/11/frame-8.png'));
+	animation.push(loadImage('assets/js/birdyjs/11/frame-9.png'));
+	animation.push(loadImage('assets/js/birdyjs/11/frame-10.png'));
+	animation.push(loadImage('assets/js/birdyjs/11/frame-11.png'));
+	animation.push(loadImage('assets/js/birdyjs/11/frame-12.png'));
+	animation.push(loadImage('assets/js/birdyjs/11/frame-13.png'));
+	animation.push(loadImage('assets/js/birdyjs/11/frame-14.png'));
+	animation.push(loadImage('assets/js/birdyjs/11/frame-15.png'));
+	animation.push(loadImage('assets/js/birdyjs/11/frame-16.png'));
+	animation.push(loadImage('assets/js/birdyjs/11/frame-17.png'));
+	
+	allAnimations.push(animation);
+	animation = [];
+
+	animation.push(loadImage('assets/js/birdyjs/12/frame-1.png'));
+	animation.push(loadImage('assets/js/birdyjs/12/frame-2.png'));
+	animation.push(loadImage('assets/js/birdyjs/12/frame-3.png'));
+	animation.push(loadImage('assets/js/birdyjs/12/frame-4.png'));
+	animation.push(loadImage('assets/js/birdyjs/12/frame-5.png'));
+	animation.push(loadImage('assets/js/birdyjs/12/frame-6.png'));
+	animation.push(loadImage('assets/js/birdyjs/12/frame-7.png'));
+	animation.push(loadImage('assets/js/birdyjs/12/frame-8.png'));
+	animation.push(loadImage('assets/js/birdyjs/12/frame-9.png'));
+	animation.push(loadImage('assets/js/birdyjs/12/frame-10.png'));
+	animation.push(loadImage('assets/js/birdyjs/12/frame-11.png'));
+	animation.push(loadImage('assets/js/birdyjs/12/frame-12.png'));
+	animation.push(loadImage('assets/js/birdyjs/12/frame-13.png'));
+	animation.push(loadImage('assets/js/birdyjs/12/frame-14.png'));
+	animation.push(loadImage('assets/js/birdyjs/12/frame-15.png'));
+	animation.push(loadImage('assets/js/birdyjs/12/frame-16.png'));
+	animation.push(loadImage('assets/js/birdyjs/12/frame-17.png'));
+
+	allAnimations.push(animation);
 }
 
 function windowResized(){
