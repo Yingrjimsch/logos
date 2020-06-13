@@ -1,5 +1,6 @@
 .title {
-    font-size: 15vw;
+    z-index: 1;
+    font-size: 10vw;
     font-family: Ruritania;
     animation: titleAnimation 2s steps(60, end);
     width: 100%; 
@@ -32,11 +33,11 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: black;
-    color: silver;
+    background-color: #00ccff;
+    color: #B2F187;
     overflow: hidden;
 }
 @font-face {
     font-family: "Ruritania";
-    src: url("assets/fonts/Ruritania-Outline.ttf");
+    src: url("../assets/fonts/04B_30__.TTF");
 }
